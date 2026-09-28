@@ -34,5 +34,31 @@
     "github": "https://github.com/ikermuni/MyFirstMod.git",
     "stack": ["Java", "Forge"],
     "date": "2026"
+  },
+  {
+    "id": 5,
+    "name": "Repair or Replace?",
+    "desc": "Herramienta de decisión en una sola página: introduces el presupuesto de reparación y unos pocos datos de un aparato cotidiano (lavadora, portátil, móvil, TV, bici...) y obtienes al instante un veredicto razonado: repararlo, reemplazarlo o pedir una segunda opinión. Todo se ejecuta en el cliente, sin backend ni analíticas.",
+    "image": "/repareorreplace.png",
+    "demo": "https://repareorreplace.178.104.59.224.sslip.io/",
+    "stack": ["Nuxt", "Vue", "TypeScript", "Tailwind", "Vitest", "Docker"],
+    "date": "2026"
+  },
+  {
+    "id": 6,
+    "name": "Solneed",
+    "desc": "Plataforma comunitaria donde la gente publica necesidades y problemas reales y otros usuarios proponen soluciones. Incluye votos, respuestas a las propuestas, categorías y etiquetas, sistema de reputación con leaderboard y panel de administración.",
+    "image": "/solneed.png",
+    "demo": "https://solneed.com",
+    "stack": ["Laravel", "Nuxt", "Vue", "MySQL", "Pinia", "Tailwind", "Docker"],
+    "date": "2026"
+  },
+  {
+    "id": 7,
+    "name": "ConquerBid",
+    "desc": "Globo terráqueo 3D donde cada país es un espacio publicitario: las marcas eligen un país como capital, conquistan los adyacentes y defienden su imperio de otras marcas que pueden arrebatárselo pagando más, con reembolso al desplazado. Pagos con Stripe, leaderboard con varios rankings y feed de conquistas en vivo.",
+    "demo": "https://conquerbid.com",
+    "stack": ["Next.js", "React", "TypeScript", "Three.js", "PostgreSQL", "Stripe", "Tailwind", "Docker"],
+    "date": "2026"
   }
 ]
