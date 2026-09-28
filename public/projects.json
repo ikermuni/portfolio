@@ -57,6 +57,7 @@
     "id": 7,
     "name": "ConquerBid",
     "desc": "Globo terráqueo 3D donde cada país es un espacio publicitario: las marcas eligen un país como capital, conquistan los adyacentes y defienden su imperio de otras marcas que pueden arrebatárselo pagando más, con reembolso al desplazado. Pagos con Stripe, leaderboard con varios rankings y feed de conquistas en vivo.",
+    "image": "/conquerbid.jpg",
     "demo": "https://conquerbid.com",
     "stack": ["Next.js", "React", "TypeScript", "Three.js", "PostgreSQL", "Stripe", "Tailwind", "Docker"],
     "date": "2026"
