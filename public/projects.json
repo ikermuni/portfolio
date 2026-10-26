@@ -61,5 +61,13 @@
     "demo": "https://conquerbid.com",
     "stack": ["Next.js", "React", "TypeScript", "Three.js", "PostgreSQL", "Stripe", "Tailwind", "Docker"],
     "date": "2026"
+  },
+  {
+    "id": 8,
+    "name": "Pubila",
+    "desc": "SaaS que automatiza con IA el contenido de redes sociales de una empresa: investiga, planifica, crea, publica en Instagram y TikTok tras tu aprobación y analiza los resultados para aprender de ellos. Multi-tenant, con planes y pagos con Stripe y trabajos en segundo plano.",
+    "demo": "https://pubila.app",
+    "stack": ["Next.js", "React", "TypeScript", "PostgreSQL", "Prisma", "IA", "Stripe", "Tailwind", "Docker"],
+    "date": "2026"
   }
 ]
